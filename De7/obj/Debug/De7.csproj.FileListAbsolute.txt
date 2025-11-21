@@ -1,0 +1,20 @@
+D:\DCCNTT13.10.5\năm 2\ki2\LT_mang\BTL\De7\De7\obj\Debug\De7.csproj.AssemblyReference.cache
+D:\DCCNTT13.10.5\năm 2\ki2\LT_mang\BTL\De7\De7\obj\Debug\De7.Properties.Resources.resources
+D:\DCCNTT13.10.5\năm 2\ki2\LT_mang\BTL\De7\De7\obj\Debug\De7.csproj.GenerateResource.cache
+D:\DCCNTT13.10.5\năm 2\ki2\LT_mang\BTL\De7\De7\obj\Debug\De7.csproj.CoreCompileInputs.cache
+D:\DCCNTT13.10.5\năm 2\ki2\LT_mang\BTL\De7\De7\bin\Debug\De7.exe.config
+D:\DCCNTT13.10.5\năm 2\ki2\LT_mang\BTL\De7\De7\bin\Debug\De7.exe
+D:\DCCNTT13.10.5\năm 2\ki2\LT_mang\BTL\De7\De7\bin\Debug\De7.pdb
+D:\DCCNTT13.10.5\năm 2\ki2\LT_mang\BTL\De7\De7\obj\Debug\De7.exe
+D:\DCCNTT13.10.5\năm 2\ki2\LT_mang\BTL\De7\De7\obj\Debug\De7.pdb
+D:\DCCNTT13.10.5\năm 2\ki2\LT_mang\BTL\De7\De7\obj\Debug\GroupChatApp.ServerForm.resources
+C:\Users\thuyh\Downloads\hằng\De7\bin\Debug\De7.exe.config
+C:\Users\thuyh\Downloads\hằng\De7\bin\Debug\De7.exe
+C:\Users\thuyh\Downloads\hằng\De7\bin\Debug\De7.pdb
+C:\Users\thuyh\Downloads\hằng\De7\obj\Debug\De7.csproj.AssemblyReference.cache
+C:\Users\thuyh\Downloads\hằng\De7\obj\Debug\De7.Properties.Resources.resources
+C:\Users\thuyh\Downloads\hằng\De7\obj\Debug\GroupChatApp.ServerForm.resources
+C:\Users\thuyh\Downloads\hằng\De7\obj\Debug\De7.csproj.GenerateResource.cache
+C:\Users\thuyh\Downloads\hằng\De7\obj\Debug\De7.csproj.CoreCompileInputs.cache
+C:\Users\thuyh\Downloads\hằng\De7\obj\Debug\De7.exe
+C:\Users\thuyh\Downloads\hằng\De7\obj\Debug\De7.pdb

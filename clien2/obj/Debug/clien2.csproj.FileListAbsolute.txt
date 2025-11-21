@@ -1,0 +1,20 @@
+D:\DCCNTT13.10.5\năm 2\ki2\LT_mang\BTL\De7\clien2\obj\Debug\clien2.csproj.AssemblyReference.cache
+D:\DCCNTT13.10.5\năm 2\ki2\LT_mang\BTL\De7\clien2\obj\Debug\clien2.Properties.Resources.resources
+D:\DCCNTT13.10.5\năm 2\ki2\LT_mang\BTL\De7\clien2\obj\Debug\clien2.csproj.GenerateResource.cache
+D:\DCCNTT13.10.5\năm 2\ki2\LT_mang\BTL\De7\clien2\obj\Debug\clien2.csproj.CoreCompileInputs.cache
+D:\DCCNTT13.10.5\năm 2\ki2\LT_mang\BTL\De7\clien2\bin\Debug\clien2.exe.config
+D:\DCCNTT13.10.5\năm 2\ki2\LT_mang\BTL\De7\clien2\bin\Debug\clien2.exe
+D:\DCCNTT13.10.5\năm 2\ki2\LT_mang\BTL\De7\clien2\bin\Debug\clien2.pdb
+D:\DCCNTT13.10.5\năm 2\ki2\LT_mang\BTL\De7\clien2\obj\Debug\clien2.exe
+D:\DCCNTT13.10.5\năm 2\ki2\LT_mang\BTL\De7\clien2\obj\Debug\clien2.pdb
+D:\DCCNTT13.10.5\năm 2\ki2\LT_mang\BTL\De7\clien2\obj\Debug\GroupChatApp.Client2Form.resources
+C:\Users\thuyh\Downloads\hằng\clien2\bin\Debug\clien2.exe.config
+C:\Users\thuyh\Downloads\hằng\clien2\bin\Debug\clien2.exe
+C:\Users\thuyh\Downloads\hằng\clien2\bin\Debug\clien2.pdb
+C:\Users\thuyh\Downloads\hằng\clien2\obj\Debug\clien2.csproj.AssemblyReference.cache
+C:\Users\thuyh\Downloads\hằng\clien2\obj\Debug\GroupChatApp.Client2Form.resources
+C:\Users\thuyh\Downloads\hằng\clien2\obj\Debug\clien2.Properties.Resources.resources
+C:\Users\thuyh\Downloads\hằng\clien2\obj\Debug\clien2.csproj.GenerateResource.cache
+C:\Users\thuyh\Downloads\hằng\clien2\obj\Debug\clien2.csproj.CoreCompileInputs.cache
+C:\Users\thuyh\Downloads\hằng\clien2\obj\Debug\clien2.exe
+C:\Users\thuyh\Downloads\hằng\clien2\obj\Debug\clien2.pdb
